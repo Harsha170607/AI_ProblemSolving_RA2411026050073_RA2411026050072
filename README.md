@@ -55,6 +55,11 @@ Steps:
 TicTacToe:
 User vs AI game in terminal
 
+## Interactive Website
+
+[Click Here to View Project](https://aiproblemsolvingra2411026050073ra2411026050072-m6ju8izyjuqtt48.streamlit.app/)
+
+
 Evacuation:
 (3,0,'L')
 (1,2,'R')
